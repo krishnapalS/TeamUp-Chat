@@ -1,5 +1,13 @@
 # TeamUp Chat Application
 
+Full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
+
+Backend : https://chatengine.io
+
+Firebase and Chat Engine are greats tools to setup apps fast and easily.
+
+
+
 Live React TeamUp Chat-Room Web-App link : https://teamup-chat.netlify.app/ 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/384bb96d-b684-4fb4-ae52-947e32c9eb9f/deploy-status)](https://app.netlify.com/sites/teamup-chat/deploys)
 
